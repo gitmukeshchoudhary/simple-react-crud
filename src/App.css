@@ -1,0 +1,25 @@
+.box {
+  box-shadow: 0 0 30px #dddddd;
+  border-radius: 10px;
+  min-height:550px;
+  
+}
+.view-users{
+  height:400px;
+  overflow-y: scroll;
+}
+.user-profile{
+  border: 1px solid #cccccc;
+}
+.user-profile img{
+  height: 100px;
+  width: 100px;
+    border-radius: 100%;
+    margin: 0 20px 0 0;
+}
+.user-profile i{
+  cursor: pointer;
+}
+.user-profile i:hover{
+ opacity: 0.6;
+}
